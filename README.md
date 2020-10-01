@@ -1,17 +1,17 @@
 # Task_1 [2020]
 Task 1 : Introduction to C++
-## Deadline: 25th January 2019
+## Deadline : 25th January 2019
 
 ## Reading Material
 * [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [markdown cheat sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
 ## Workflow
-1. Discuss the solution with your group members
+1. Discuss the solutions with your group members
 2. FORK and CLONE this repositori ASD_Task_1
 3. open and modify codes in *.cpp files inside project ASD_Task_1
 4. COMMIT and PUSH your project
-5. create a Pull Request, put your student ID as the Pull Message
+5. create a Pull Request, put your student I'd as the Pull Message
 
 ## Group Tasks
 * Group 1: Exercise A, G, and J
